@@ -1,5 +1,5 @@
 from alipay import AliPay
-from alipay.utils import AliPayConfig
+# from alipay.utils import AliPayConfig
 from . import settings
 
 
